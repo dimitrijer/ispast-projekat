@@ -1,4 +1,4 @@
-
+#include <stdio.h>
 
 int main() {
   printf("Sta hoces da radis?\n");
@@ -8,6 +8,8 @@ int main() {
 
   scanf("%d", &unos);
   printf("Uneo si %d.", unos);
+
+  
 
   return 0;
 }
