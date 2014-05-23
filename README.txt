@@ -1,4 +1,6 @@
 Projekat ISPAST
 ---------------
 
-Ovo je veoma vazna recenica.
+Ovaj program racuna povrsine prostih geometrijskih tela.
+
+Treba ti GCC4+ da bi iskompajlirao.
